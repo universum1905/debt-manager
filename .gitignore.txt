@@ -1,2 +1,0 @@
-# Echte Firebase-Konfiguration nicht hochladen
-config/firebaseConfig.js
