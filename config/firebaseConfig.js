@@ -1,9 +1,9 @@
 const firebaseConfig = {
-    apiKey: "DEIN_API_KEY",
-    authDomain: "DEIN_PROJECT.firebaseapp.com",
-    projectId: "DEIN_PROJECT_ID",
-    storageBucket: "DEIN_PROJECT.appspot.com",
-    messagingSenderId: "DEIN_SENDER_ID",
-    appId: "DEINE_APP_ID"
+  apiKey: "HIER_EINTRAGEN",
+  authDomain: "HIER_EINTRAGEN",
+  projectId: "HIER_EINTRAGEN",
+  storageBucket: "HIER_EINTRAGEN",
+  messagingSenderId: "HIER_EINTRAGEN",
+  appId: "HIER_EINTRAGEN"
 };
 firebase.initializeApp(firebaseConfig);
